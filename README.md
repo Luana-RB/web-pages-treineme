@@ -2,6 +2,6 @@
 
 This is a learning project to practice html and css basic features and responsivity, using a Figma project as a base for the design.
 
-![Project Screenshot](.github/print.jpg)
+![Project Screenshot](.github/print.png)
 
 The page was deployed using Vercel [Access Here](https://treineme-sable.vercel.app/)
